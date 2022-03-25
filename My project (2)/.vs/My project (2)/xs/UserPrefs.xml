@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{D0F74257-F6B2-DCEA-FC51-AA11C694D4B0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BotCode.cs">
+    <Files>
+      <File FileName="Assets/PlayerCode.cs" Line="35" Column="1" />
+      <File FileName="Assets/BotCode.cs" Line="29" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="My project (2)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BotCode.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9933d744-827d-4041-a932-57b6c7715601" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
